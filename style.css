@@ -1,0 +1,11 @@
+body{
+    background-size: cover;
+}
+#apple{
+    font-size: 36px;
+    width: 100%;
+}
+canvas{
+    border: solid red;
+    border-radius:10px;
+}
